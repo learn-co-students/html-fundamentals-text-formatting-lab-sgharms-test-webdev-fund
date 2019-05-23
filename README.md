@@ -4,7 +4,7 @@
 
 1. Identify the most common text formatting tags
 2. Apply HTML concepts to display content on a web page
-
+ 
 ## Introduction
 
 In a browser, all visible content of an HTML document is contained within the
